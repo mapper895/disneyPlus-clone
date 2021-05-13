@@ -62,7 +62,7 @@ const Wrap = styled.div`
   cursor: pointer;
   overflow: hidden;
   position: relative;
-  transition: all 300ms cubic-cubic-bezier(0.25, 0.45, 0.45, 0.94);
+  transition: all 300ms cubic-bezier(0.25, 0.45, 0.45, 0.94);
   border: 3px solid rgba(249, 249, 249, 0.1);
 
   img {
